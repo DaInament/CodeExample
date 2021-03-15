@@ -1,0 +1,20 @@
+PODS:
+  - InputMask (6.0.0)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - InputMask (= 6.0.0)
+  - SwiftLint (= 0.42.0)
+
+SPEC REPOS:
+  trunk:
+    - InputMask
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  InputMask: f340bdc905a4c4f377e44d865f129f752ac2383d
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: 603b6a588413b9939e81d593802a007f21412f63
+
+COCOAPODS: 1.10.1
